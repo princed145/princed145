@@ -2,10 +2,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="400"> </p>
 
 # <p align="center">Hi, I'm Prince 👋. I am a Data Analyst.</p>
-<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"> </p>
 p align="center">
     <a href="https://www.linkedin.com/in/prince-dobariya"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a>
     <a href="mailto:princedobariya9898@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
+    <a href="https://www.hackerrank.com/profile/princedobariya91"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"> </a>
   </p>
 ## Languages and Tools:
 
