@@ -1,7 +1,7 @@
 ## Hi there 👋
 <p align="center">
 <img src="https://camo.githubusercontent.com/5352b6b2b973a416adb9f788796e6e861e6ff286d2d83780df8ef7d90d4ca349/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="400"> </p>
-
+![Description](https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif)
 # <p align="center">Hi, I'm Prince 👋. I am a Data Analyst.</p>
 
 ## Languages and Tools:
