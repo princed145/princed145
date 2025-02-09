@@ -4,6 +4,10 @@
 # <p align="center">Hi, I'm Prince 👋. I am a Data Analyst.</p>
 
 ## 💫 About Me:
+- I'm passionate Data Analyst Professional currently residing in Canada.
+- I love to solve complex problems and help bussiness to 
+- My favourite  programming language is python and SQL  
+
 <p align="left">
     <a href="https://www.linkedin.com/in/prince-dobariya"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a>
     <a href="mailto:princedobariya9898@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
@@ -12,7 +16,7 @@
   
 ![](https://komarev.com/ghpvc/?username=princed145&color=447ff7&label=Visitor+count)
 
-## Languages and Tools:
+## 🛠️Languages and Tools:
 
 👩‍💻 Programming Languages
  
@@ -25,10 +29,12 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="38" height="38" /> <i class="devicon-kubernetes-plain colored" width="38" height="38" ></i> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="38" height="38" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-plain-wordmark.svg" width="38" height="38"/>
 
-Databases 
+
+<img src="https://github.com/user-attachments/assets/c13d5be8-d38f-4fdf-a734-5b36aeadb187" width="15" height="15" /> 
+ Databases 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="38" height="38"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="38" height="38" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="38" height="38" />
-
+## 📕 Certifications:
 <!--
 **princed145/princed145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
