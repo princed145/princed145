@@ -43,7 +43,8 @@
 - SQL
 
     [![HackerRank SQL](https://img.shields.io/badge/HackerRank-SQL%20(Basic)-blue)](https://www.hackerrank.com/certificates/iframe/477491c612c2)  
-    [![HackerRank SQL](https://img.shields.io/badge/HackerRank-SQL%20(Intermediate)-blue)](https://www.hackerrank.com/certificates/iframe/9bb25c9658e7) 
+    [![HackerRank SQL](https://img.shields.io/badge/HackerRank-SQL%20(Intermediate)-blue)](https://www.hackerrank.com/certificates/iframe/9bb25c9658e7)
+    [![HackerRank SQL](https://img.shields.io/badge/HackerRank-SQL%20(Advanced)-blue)](https://www.hackerrank.com/certificates/iframe/32fe19757559) 
 
 - Hackathon
   
